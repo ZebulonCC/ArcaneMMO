@@ -1,2 +1,3 @@
 # ArcaneMMO-Client
-Our first attempt at a Fantasy/Sci-fi based MMO
+Our first attempt at a Fantasy/Sci-fi based MMO  
+Client-side
