@@ -1,0 +1,16 @@
+C:\GitHub\Sites\ArcaneMMO\MMO-Server\ArcaneMMO_Server\bin\Debug\netcoreapp3.1\ArcaneMMO_Server.exe
+C:\GitHub\Sites\ArcaneMMO\MMO-Server\ArcaneMMO_Server\bin\Debug\netcoreapp3.1\ArcaneMMO_Server.deps.json
+C:\GitHub\Sites\ArcaneMMO\MMO-Server\ArcaneMMO_Server\bin\Debug\netcoreapp3.1\ArcaneMMO_Server.runtimeconfig.json
+C:\GitHub\Sites\ArcaneMMO\MMO-Server\ArcaneMMO_Server\bin\Debug\netcoreapp3.1\ArcaneMMO_Server.runtimeconfig.dev.json
+C:\GitHub\Sites\ArcaneMMO\MMO-Server\ArcaneMMO_Server\bin\Debug\netcoreapp3.1\ArcaneMMO_Server.dll
+C:\GitHub\Sites\ArcaneMMO\MMO-Server\ArcaneMMO_Server\bin\Debug\netcoreapp3.1\ArcaneMMO_Server.pdb
+C:\GitHub\Sites\ArcaneMMO\MMO-Server\ArcaneMMO_Server\obj\Debug\netcoreapp3.1\ArcaneMMO_Server.csprojAssemblyReference.cache
+C:\GitHub\Sites\ArcaneMMO\MMO-Server\ArcaneMMO_Server\obj\Debug\netcoreapp3.1\ArcaneMMO_Server.AssemblyInfoInputs.cache
+C:\GitHub\Sites\ArcaneMMO\MMO-Server\ArcaneMMO_Server\obj\Debug\netcoreapp3.1\ArcaneMMO_Server.AssemblyInfo.cs
+C:\GitHub\Sites\ArcaneMMO\MMO-Server\ArcaneMMO_Server\obj\Debug\netcoreapp3.1\ArcaneMMO_Server.dll
+C:\GitHub\Sites\ArcaneMMO\MMO-Server\ArcaneMMO_Server\obj\Debug\netcoreapp3.1\ArcaneMMO_Server.pdb
+C:\GitHub\Sites\ArcaneMMO\MMO-Server\ArcaneMMO_Server\obj\Debug\netcoreapp3.1\ArcaneMMO_Server.genruntimeconfig.cache
+C:\GitHub\Sites\ArcaneMMO\MMO-Server\ArcaneMMO_Server\obj\Debug\netcoreapp3.1\ArcaneMMO_Server.csproj.GenerateResource.cache
+C:\GitHub\Sites\ArcaneMMO\MMO-Server\ArcaneMMO_Server\obj\Debug\netcoreapp3.1\ArcaneMMO_Server.ServerConsole.resources
+C:\GitHub\Sites\ArcaneMMO\MMO-Server\ArcaneMMO_Server\obj\Debug\netcoreapp3.1\ArcaneMMO_Server.csproj.CoreCompileInputs.cache
+C:\GitHub\Sites\ArcaneMMO\MMO-Server\ArcaneMMO_Server\obj\Debug\netcoreapp3.1\ArcaneMMO_Server.Form1.resources
