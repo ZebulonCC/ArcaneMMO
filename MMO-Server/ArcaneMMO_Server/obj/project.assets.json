@@ -68,23 +68,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Zebbe\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\Sebastian\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\GitHub\\Sites\\ArcaneMMO\\MMO-Server\\ArcaneMMO_Server\\ArcaneMMO_Server.csproj",
+      "projectUniqueName": "C:\\Users\\Sebastian\\Documents\\GitHub\\Kraken\\ArcaneMMO\\MMO-Server\\ArcaneMMO_Server\\ArcaneMMO_Server.csproj",
       "projectName": "ArcaneMMO_Server",
-      "projectPath": "C:\\GitHub\\Sites\\ArcaneMMO\\MMO-Server\\ArcaneMMO_Server\\ArcaneMMO_Server.csproj",
-      "packagesPath": "C:\\Users\\Zebbe\\.nuget\\packages\\",
-      "outputPath": "C:\\GitHub\\Sites\\ArcaneMMO\\MMO-Server\\ArcaneMMO_Server\\obj\\",
+      "projectPath": "C:\\Users\\Sebastian\\Documents\\GitHub\\Kraken\\ArcaneMMO\\MMO-Server\\ArcaneMMO_Server\\ArcaneMMO_Server.csproj",
+      "packagesPath": "C:\\Users\\Sebastian\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Sebastian\\Documents\\GitHub\\Kraken\\ArcaneMMO\\MMO-Server\\ArcaneMMO_Server\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Zebbe\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Sebastian\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -131,7 +127,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
       }
     }
   }
