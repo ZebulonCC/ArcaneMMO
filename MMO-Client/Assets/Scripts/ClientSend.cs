@@ -26,6 +26,7 @@ public class ClientSend : MonoBehaviour
 
             SendTCPData(_packet);
         }
+        PlayerDrip(UIManager.instance.playerColor);
     }
 
     public static void PlayerMovement(bool[] _inputs)
@@ -43,13 +44,11 @@ public class ClientSend : MonoBehaviour
         }
     }
 
-    public static void PlayerDrip()
+    public static void PlayerDrip(Vector4 _color)
     {
         using(Packet _packet = new Packet((int)ClientPackets.playerDrip))
         {
-            GameManager.players[Client.instance.myId].Color = GameManager.players[Client.instance.myId].Color;
-            _packet.Write(GameManager.players[Client.instance.myId].Color);
-
+            _packet.Write(_color);
             SendUDPData(_packet);
         }
     }

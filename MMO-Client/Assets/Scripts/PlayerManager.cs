@@ -9,16 +9,14 @@ public class PlayerManager : MonoBehaviour
     public Renderer model;
     [SerializeField]
     Color color;
-    public Vector4 Color
+
+    public void SetColor(Color color)
     {
-        get
-        {
-            return color;
-        }
-        set
-        {
-            color = new Color(value.x, value.y, value.z, value.w);
-            model.material.color = color;
-        }
+        this.color = color;
+        model.material.color = color;
+    }
+    public void SendDripToServer()
+    {
+        ClientSend.PlayerDrip(color);
     }
 }

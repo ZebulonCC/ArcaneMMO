@@ -9,15 +9,6 @@ public class PlayerController : MonoBehaviour
         SendInputToServer();
     }
 
-    void Update()
-    {
-        if (Input.GetKeyDown(KeyCode.E))
-        {
-            SendDripToServer();
-            Debug.Log("DripSent");
-        }
-    }
-
     private void SendInputToServer()
     {
         bool[] _inputs = new bool[]
@@ -29,10 +20,5 @@ public class PlayerController : MonoBehaviour
         };
 
         ClientSend.PlayerMovement(_inputs);
-    }
-
-    public void SendDripToServer()
-    {
-        ClientSend.PlayerDrip();
     }
 }

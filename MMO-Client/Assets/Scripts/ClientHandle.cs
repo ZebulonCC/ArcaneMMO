@@ -46,6 +46,6 @@ public class ClientHandle : MonoBehaviour
     {
         int _id = _packet.ReadInt();
         Vector4 _color = _packet.ReadVector4();
-        GameManager.players[_id].Color = new Color(_color.x, _color.y, _color.z, _color.w);
+        GameManager.players[_id].SetColor(new Color(_color.x, _color.y, _color.z, _color.w));
     }
 }
